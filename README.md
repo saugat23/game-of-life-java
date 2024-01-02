@@ -1,4 +1,4 @@
-# Conway's Game of Life in Java
+# Conway's Game of Life in Java - [Not Completed]
 
 This is a simple console-based implementation of Conway's Game of Life in Java.
 
